@@ -1,0 +1,35 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+.carosel-cap {
+  position: absolute;
+  left: 50%;
+  color: #fff;
+  text-align: center;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.carosel-cap p.fw-lighter {
+  font-size: 11px;
+  line-height: 1.2;
+}
+
+.overlay {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  background: #000000a3;
+}
+
+@media screen and (min-width: 600px) {
+  .carosel-cap h6 {
+    font-size: 36px;
+  }
+  .carosel-cap p.fw-lighter {
+    font-size: 18px;
+    line-height: 1.2;
+  }
+}
