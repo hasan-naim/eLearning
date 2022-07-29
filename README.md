@@ -20,4 +20,4 @@ This is a landing page. It is from programming hero course. I built this website
 
 <!-- visit the website -->
 
-[![](/images/eLearning \_ Home Page.png)](https://elearning-hasan.netlify.app/)
+[![](/images/fullPageIMg.png)](https://elearning-hasan.netlify.app/)
